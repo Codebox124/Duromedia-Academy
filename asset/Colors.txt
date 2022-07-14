@@ -1,0 +1,6 @@
+Red - #EF233C
+Gray - #888888 Text Only
+Gray - #F7F6F6 Background Only
+White - #FFFFFF
+Black - #2B2DF2 Text Only
+Black - #222222 Background Only

@@ -1,0 +1,201 @@
+*{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+header{
+    width: 100%;
+    padding-top:10px ;
+    padding-bottom: 10px;
+   
+}
+body{
+    padding: 0px;
+}
+
+
+
+.header-container{
+    width: 80%;
+    margin:10px auto;
+    display: flex;
+    background-color: white;
+    
+
+}
+.header-nav ul li{
+    display: inline;
+    margin: 40px;
+    list-style: none;
+    font-size: 20px;
+}
+h2{
+    display: inline;
+}
+
+
+}
+header span{
+    color: rgb(223, 39, 39);
+}
+.header-buttons{
+    
+    margin-left: 30px;
+}
+header button{
+    background-color:rgb(223, 39, 39);
+    border: none;
+    padding:5px 30px ;
+    color: white;
+    font-weight: bold;
+    border-radius: 5px;
+    margin-left: 10px;
+    
+}
+a{
+    text-decoration: none;
+    color: #222222;
+}
+.img{
+    background: linear-gradient(rgb(0,0,0,0.6),rgb(0,0,0,0.6)), url('/asset/banner.jpg');
+    background-repeat: no-repeat;
+    margin: 0px;
+    
+    height: 100px;
+    padding: 100px 100px;
+    
+    
+
+}
+.img span{
+    color:rgb(223, 39, 39) ;
+}
+.img h3{
+    color: white;
+    font-size: 30px;
+    display: inline;
+}
+.img p{
+    color:white;
+    display: inline;
+    float: right;
+
+}
+.img-content{
+    display: inline;
+}
+.check-container{
+    width: 80%;
+    margin: auto;
+    padding-top: 50px;
+}
+table{
+    width: 100%;
+    text-align: center;
+}
+table th{
+    padding:0px 10;
+    background-color:#222222 ;
+    color:#FFFFFF ;
+}
+table button{
+    border: none;
+    margin-right:4px ;
+    padding: 5px 10px;
+}
+.btn{
+    background-color: white;
+    border:1px solid;
+    color: black;
+    border-color: #222222;
+}
+.continue-btn button{
+    background-color:rgb(223, 39, 39) ;
+    padding: 10px 40px;
+    border: none;
+    color: #FFFFFF;
+    width: 100%;
+    border-radius: 5px;
+}
+.text-container p{
+    display: inline;
+    margin-right:30px ;
+    color: #888888;
+    width: 100%;
+}
+.basket{
+    width: 30%;
+    display: inline-block;
+    margin: 20px;
+    margin-right:40px ;
+}
+.basket2{
+    width: 100%;
+    display: inline;
+    margin: 20px;
+    margin-right:40px ;
+}
+.basket p .p{
+    float: right;
+    display: inline;
+    
+}
+.text-container .div{
+    float: right;
+}
+.text-container h3{
+    display: inline;
+}
+.details{
+    display: inline;
+}
+.form input{
+    height: 30px;
+    width: 100%;
+
+    background-color: #F7F6F6;
+    border: none;
+    padding: 10px 5px;
+    text-indent: 20px;
+    font-size: 15px;
+    
+}
+.details-container{
+    display: flex;
+    width: 100%;
+}
+.form button{
+    color: white;
+    background-color:rgb(223, 39, 39) ;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-weight: bold;
+    
+}
+.pay{
+    float: right;
+}
+footer{
+    
+    
+    background-color: #222222;
+    
+}
+.footer-content{
+    width: 80%;
+    margin: 10px auto;
+    color: white;
+    padding: 20px 0px 30px 0px ;
+}
+.bars{
+    display: flex;
+    width:80%;
+    margin: 0px auto;
+    color: white;
+     justify-content: space-between;
+}
+.header-buttons img{
+    width: 20px;
+    position: relative;
+    top: 5px;
+    left: 15px;
+}
